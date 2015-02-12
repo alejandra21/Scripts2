@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# Scripts2
+
+>>>>>>> 060e06de52380e2af66ca703dd746ca0c7ad841b
 Instrucciones para correr los scripts:
 
  - Los script que se deben correr son:
@@ -43,15 +48,25 @@ Instrucciones para correr paquetes.sh:
  
  
  Para correr este script se debe escribir en consola 
+<<<<<<< HEAD
  ./PATH.sh -d <Nombre del directorio> 
  
  Otra opcion es:
   ./PATH.sh
+=======
+ ./PATH.sh -d <Nombre del directorio> o ./PATH.sh
+>>>>>>> 060e06de52380e2af66ca703dd746ca0c7ad841b
  
  Ejemplo :
  
  ./PATH.sh -d /usr/games
 
+Otra opcion es:
+./PATH.sh 
+<<<<<<< HEAD
+
+=======
+>>>>>>> 060e06de52380e2af66ca703dd746ca0c7ad841b
  ./PATH.sh
  
   ------------------------------------------------------------------------
